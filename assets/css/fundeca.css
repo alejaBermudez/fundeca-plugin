@@ -1,0 +1,67 @@
+
+#homer{
+  margin-left: 5px auto;
+  display: block;
+  width: 120px;  
+  border: 6px solid #2c2f3f;
+}
+
+#boton {
+  margin-left: 5px ;
+  background-color: #13a099;
+  color: white;
+  padding: 6px 14px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.row {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.div-menu ul{
+  list-style: none; /*quita los puntos*/
+  padding: 0;
+}
+
+
+.div-menu ul li {
+  padding-bottom: 10px;
+}
+
+.div-menu ul i {
+  font-size: 20px;
+  padding-right: 2px;
+  color: #149ddd;
+}
+
+.div-menu input {
+  width: 5px;
+  height: 5px;
+}
+
+.col-lg-2{
+  font-size: medium;
+  text-decoration: none;
+  text-decoration-color: black;
+}
+
+.div-menu tr{
+  list-style: none; /*quita los puntos*/
+  padding: 0;
+}
+
+.div-menu th{
+  font-size: 20px;
+  padding-right: 2px;
+  color: #149ddd;
+}
+
+.container{
+  margin:10px;
+  width: 100%;
+  min-width: 300px;
+}

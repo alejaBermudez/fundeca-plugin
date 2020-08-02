@@ -372,7 +372,7 @@ function fundeca_form_inscripciones(){
                             <legend>Ubicación del proyecto</legend>
                             <div class="form-row align-items-center">        
                                 <div class="text-center">
-                                    <img src="http://localhost/fundeca/wp-content/plugins/fundeca-plugin/assets/img/mapa.jpg" class="rounded" >
+                                    <img src="http://localhost/fundeca/wp-content/plugins/fundeca-plugin/assets/img/mapa.jpg" class="rounded" style="margin-left: 85px; margin-right:85px; margin-top: 20px; margin-bottom: 20px; " >
                                 </div> 
                             </div>
                         </form>
@@ -384,7 +384,7 @@ function fundeca_form_inscripciones(){
                     <div class="form-row align-items-center"> 
                         <div class="col-sm-4">                                                     
                         </div>                 
-                        <div class="col-sm-4"><!--Btn añadir-->               
+                        <div class="col-sm-4"><!--Btn guardar-->               
                             <div class="form-group">
                             <button type="submit" class="btn btn-primary mb-2" style="width:100%; heigth:5px;">Guardar proyecto</button>
                             </div>                                      
